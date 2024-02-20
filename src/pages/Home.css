@@ -1,0 +1,14 @@
+ion-title {
+    text-align: center;
+}
+ion-card {
+    text-align: center;
+    padding-top: 20px;
+}
+ion-button {
+    margin: 10%;
+    width: 70%;
+}
+ion-icon {
+    text-align: center;
+}
